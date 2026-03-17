@@ -16,8 +16,8 @@ Classifies street images into 5 categories under a strict 5 MB model size constr
 ## Submission Files
 ```
 Assignment_Submission/
-├── vehicle_classifier.py   ← inference class (do not rename)
-├── student_model.pth       ← trained weights (4.978 MB)
+├── vehicle_classifier.py   ← inference class 
+├── student_model.pth       ← trained weights 
 ├── report.pdf              ← full report
 └── README.md               ← this file
 ```
